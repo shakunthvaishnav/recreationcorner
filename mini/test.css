@@ -1,0 +1,21 @@
+body{
+	background-color: #F0FFFF; 
+}
+h1{
+	font-family: 'Metal Mania', cursive;
+	font-style:bold;
+}
+h5,p
+{
+	font-family: 'Kreon', serif;
+	text-align:left;
+}
+.btn-primary
+{
+	margin:0rem;
+	margin-bottom: 1px;
+
+}
+.col-sm{
+	margin-bottom: 2px;
+}
